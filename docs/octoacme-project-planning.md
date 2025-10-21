@@ -30,14 +30,28 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Pull items that meet DoD and have clear acceptance criteria
 - Ensure team capacity is respected
 
+## Cross-Functional Collaboration
+Ensure all relevant roles are engaged during planning:
+- **UX Designer**: Validates user flows and design requirements are captured
+- **Technical Writer**: Identifies documentation needs and timeline for content creation
+- **Release Manager**: Confirms release windows and deployment dependencies
+- **Customer Support Lead**: Reviews feature scope for support training and communication needs
+- **Developers**: Provide technical input on implementation approach and estimates
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed interaction patterns between roles.
+
 ## Risk & Dependency Management
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Identify handoff points between roles (e.g., design to development, development to documentation)
 
 ## Planning Checklist
-- [ ] Project kickoff held
-- [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Project kickoff held (Project Manager facilitates)
+- [ ] Backlog prioritized and estimated (Product Manager + Developers)
+- [ ] Release timeline and milestones agreed (Release Manager coordinates)
+- [ ] Definition of Done documented (Team collaboration)
+- [ ] Initial test plan / QA approach drafted (QA ownership)
+- [ ] UX research and design scope defined (UX Designer ownership)
+- [ ] Documentation plan created (Technical Writer ownership)
+- [ ] Customer support readiness plan outlined (Customer Support Lead ownership)

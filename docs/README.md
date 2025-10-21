@@ -2,7 +2,7 @@
 
 ## Overview
 
-OctoAcme follows a customer-first, iterative delivery approach to project management. Our process prioritizes delivering value in small, testable increments, with clear ownership and data-informed decision-making. Each project is guided by a named Project Manager who coordinates delivery, schedules, risks, and communications, working alongside a Product Lead who defines outcomes and measures success.
+OctoAcme follows a customer-first, iterative delivery approach to project management. Our process prioritizes delivering value in small, testable increments, with clear ownership and data-informed decision-making. Each project is guided by a named Project Manager who coordinates delivery, schedules, risks, and communications, working alongside a Product Lead who defines outcomes and measures success. Our expanded team structure includes specialized roles such as UX Designers, Technical Writers, Release Managers, and Customer Support Leads to ensure comprehensive coverage across design, documentation, deployment, and customer experience.
 
 Our project lifecycle consists of five core phases: Initiation (problem definition and stakeholder alignment), Planning (scope and backlog development), Execution (build, test, and iterate), Release (deployment and verification), and Retrospective (learning capture and continuous improvement). Throughout each phase, teams maintain consistent communication cadences including weekly PM/Product Lead syncs, twice-weekly standups, and monthly stakeholder updates.
 
@@ -20,6 +20,7 @@ The documentation in this folder provides detailed guidance on each lifecycle ph
 
 ## Documentation
 
+### Process Guides
 - [OctoAcme Project Management Overview](octoacme-project-management-overview.md)
 - [OctoAcme Project Initiation](octoacme-project-initiation.md)
 - [OctoAcme Project Planning](octoacme-project-planning.md)
@@ -28,6 +29,11 @@ The documentation in this folder provides detailed guidance on each lifecycle ph
 - [Release and Deployment](octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+
+### Checklists and Templates
+- [Design Handoff Checklist](octoacme-design-handoff-checklist.md)
+- [Documentation Planning Checklist](octoacme-documentation-planning-checklist.md)
+- [Customer Support Readiness Checklist](octoacme-support-readiness-checklist.md)
 
 ## Contributing
 
